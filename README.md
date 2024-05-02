@@ -101,5 +101,5 @@ This is an academic project, not a fully polished product, so please use at your
 
 ## Contact
 
-© nonocut 2024
+© nonocut 2024<br/>
 [Drop a line](https://nonocut.com/contact/)
