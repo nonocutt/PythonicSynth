@@ -1,5 +1,7 @@
 """
-This Python script creates a synthesizer setup using the Pyo library, specifically designed to handle MIDI inputs and generate complex soundscapes with various waveforms and effects. The program initializes a MIDI-controlled synthesizer with ADSR envelope shaping and provides real-time GUI controls for waveform selection and effect parameters adjustment. It includes multiple oscillators with different waveforms, a low-pass filter, reverb, and chorus effects for each oscillator channel.
+This Python script creates a synthesizer setup using the Pyo library, specifically designed to handle MIDI inputs and generate complex soundscapes with various waveforms and effects.
+The program initializes a MIDI-controlled synthesizer with ADSR envelope shaping and provides real-time GUI controls for waveform selection and effect parameters adjustment.
+It includes multiple oscillators with different waveforms, a low-pass filter, reverb, and chorus effects for each oscillator channel.
 
 To run this program:
 1. Ensure Pyo and a MIDI input device are properly configured on your system.
