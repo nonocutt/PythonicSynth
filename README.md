@@ -26,6 +26,11 @@ Welcome to the **PythonicSynth** User Manual. **PythonicSynth** is an additive s
   ```
   pip3 install pyo
   ```
+  
+- Here is the interface of the program:
+
+![screenshot](PythonicSynth.jpg)
+
 ## Features
 
 ### MIDI Input
