@@ -39,12 +39,7 @@ Welcome to the **PythonicSynth** User Manual. **PythonicSynth** is an additive s
 - If you are using [homebrew](https://brew.sh/), you can run the following code in the terminal to proceed:
 
   ```unix
-  brew install flac
-  brew install libvorbis
-  brew install opus
-  brew install mpg123
-  brew install lame
-  brew install wxpython
+  brew install flac libvorbis opus mpg123 lame wxpython
   ```
 
 - Here is the interface of the program:
